@@ -1,0 +1,46 @@
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class CreateSubQuestionsTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('sub_questions', function (Blueprint $table) {
+            $table->id();
+            $table->unsignedBigInteger('template_id');
+            $table->foreign('template_id')->references('id')->on('templates');
+            $table->unsignedBigInteger('paper_id');
+            $table->foreign('paper_id')->references('id')->on('papers');
+            $table->unsignedBigInteger('question_id');
+            $table->foreign('question_id')->references('id')->on('questions');
+            $table->string('type');
+            $table->mediumText('question');
+            $table->string('option_1'); 
+            $table->string('option_2'); 
+            $table->string('option_3'); 
+            $table->string('option_4'); 
+            $table->string('answer');
+            $table->mediumText('explation');
+            $table->softDeletes();
+            $table->timestamps();
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::dropIfExists('sub_questions');
+    }
+}

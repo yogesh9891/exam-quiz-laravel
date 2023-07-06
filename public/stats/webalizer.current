@@ -1,0 +1,651 @@
+# Webalizer V2.23-08 Incremental Data - 11/21/2021 02:15:56
+2021 11 21 2 15 56
+8376 4709 14 140 102 4 728723242 3775 59 0 0 0
+1 24 275 1 21
+9 6 2107991 2 2 1 0 0
+12 4 52941 3 0 0 0 0
+25 13 3543986 2 10 1 0 0
+0 0 0 0 0 0 0 0
+512 309 31796040 1 191 3 0 0
+630 363 59189271 1 207 2 0 0
+1 0 6866 1 0 0 0 0
+866 478 63093077 4 415 3 0 0
+991 512 55253378 1 410 2 0 0
+533 294 31406916 1 238 3 0 0
+622 320 28248351 1 318 4 0 0
+445 223 23249538 1 217 5 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+67 35 2783512 1 37 4 0 0
+388 190 35347789 1 227 7 0 0
+1002 616 90754062 1 479 7 0 0
+966 535 73474105 1 384 4 0 0
+707 493 170960920 1 313 6 0 0
+576 300 53665179 1 317 6 0 0
+24 18 3789320 1 10 1 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+0 0 0 0 0 0 0 0
+3 1 25458 0 0 0
+0 0 0 0 0 0
+24 18 3789320 10 0 0
+0 0 0 0 0 0
+2 0 349 0 0 0
+838 541 71564375 370 0 0
+679 354 69343762 312 0 0
+1012 617 100841998 390 0 0
+611 359 59529563 269 0 0
+666 370 51390716 329 0 0
+969 522 75830577 503 0 0
+1002 555 72070141 431 0 0
+1120 600 110592013 490 0 0
+1089 590 90160539 503 0 0
+279 139 17869091 128 0 0
+2 0 13731 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+22 16 3131705 7 0 0
+58 27 2569904 33 0 0
+7
+0
+0
+4709
+0
+0
+0
+0
+0
+2
+0
+2
+220
+0
+50
+0
+0
+0
+0
+0
+6
+2957
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+420
+0
+0
+0
+0
+0
+# -urls- 
+/get-class/91
+0 11 0 16999 0 0 0 0
+/schools/91/class
+0 10 0 173409 0 0 0 0
+/student/paper/edit/286
+0 84 0 931166 0 1 0 0
+/student/paper/update/9
+0 2 0 11812 0 0 0 0
+/school/student-reports
+0 1 0 21229 0 0 0 0
+/css/app.css
+0 46 0 539367 0 0 0 0
+/teacher/assigned-papers/5
+0 11 0 56348 0 0 0 0
+/livewire/message/reports.student
+0 39 0 18961043 0 0 0 0
+/teacher
+0 53 0 458566 1 3 0 0
+/teacher/student-answer/286
+0 197 0 3432128 5 7 0 0
+/student/paper/show/327
+0 5 0 123665 0 0 0 0
+/teacher/papers
+0 25 0 158896 1 1 0 0
+/admin/category/34/edit
+0 2 0 9754 0 0 0 0
+/student/paper/checked/327
+0 2 0 57717 0 0 0 0
+/register
+0 2 0 27069 0 0 0 0
+/student
+0 18 0 158450 0 0 0 0
+/admin/category/33/edit
+0 2 0 9753 0 0 0 0
+/assigned-paper
+0 7 0 105926 0 0 0 0
+/admin_assets/images/logo.jpg
+1 31 0 23429785 0 0 0 0
+/paper
+0 1 0 7024 0 0 0 0
+/student/paper/edit/2
+0 1 0 10429 0 0 0 0
+/teacher/get-students
+0 72 0 530085 0 0 0 0
+/schools/91/class/133/edit
+0 1 0 18265 0 0 0 0
+/livewire/livewire.js.map
+0 549 0 62791074 0 0 0 0
+/teacher/answer-comment
+0 5 0 19048 0 0 0 0
+/question/61/edit
+0 1 0 21210 0 0 0 0
+/teacher/sent-back-papers
+0 77 0 843794 0 0 0 0
+/schools/5068/class
+0 2 0 22962 1 1 0 0
+/teacher/archived-papers
+0 20 0 298118 2 0 0 0
+/schools/91/student/5074/edit
+0 1 0 18385 0 0 0 0
+/student/saved-papers
+0 39 0 228338 0 0 0 0
+/schools/91/class/126/edit
+0 7 0 128015 0 0 0 0
+/teacher/student-answer/2
+0 56 0 774024 2 1 0 0
+/question-paper/QP8-EN-GR-POS-AD-AOQ-2
+0 2 0 25339 0 0 0 0
+/_ignition/health-check
+0 68 0 18286 1 5 0 0
+/schools/91/class/2
+0 1 0 5664 0 0 0 0
+/admin_assets/images/bg.jpg
+1 33 0 4440261 0 0 0 0
+/get-school/1
+0 12 0 16011 0 0 0 0
+/template/6/edit
+0 1 0 6502 0 0 0 0
+/student/assign-papers
+0 63 0 407043 0 0 0 0
+/favicon.ico
+0 36 0 9712 0 0 0 0
+/assigned-paper/sent
+0 6 0 77747 0 0 0 0
+/template/19
+0 1 0 17463 0 0 0 0
+/teacher/browse-papers
+0 362 0 2777319 3 3 0 0
+/js/app.js
+0 52 0 14241253 0 0 0 0
+/school-class/126/section
+0 1 0 17493 0 0 0 0
+/school/class-reports
+0 36 0 275733 0 0 0 0
+/livewire/message/reports.classes
+0 188 0 5191567 0 0 0 0
+/teacher/paper/show/4
+0 3 0 99446 0 0 0 0
+/student/paper/edit/327
+0 26 0 670819 1 1 0 0
+/admin/category
+0 2 0 10092 0 0 0 0
+/admin/category/35/edit
+0 2 0 9752 0 0 0 0
+/admin_assets/scripts/main.87c0748b313a1dda75f5.js
+0 56 0 35912686 0 0 0 0
+/admin/category/34
+0 1 0 4669 0 0 0 0
+/teacher/get-class-section/132
+0 1 0 1214 0 0 0 0
+/admin_assets/css/main.87c0748b313a1dda75f5.css
+0 45 0 5377486 0 0 0 0
+/teacher/sent-papers
+0 1 0 4740 0 0 0 0
+/schools/91/student
+0 6 0 285092 0 0 0 0
+/teacher/paper/show/5
+0 15 0 441321 0 0 0 0
+/teacher/classes
+0 22 0 343561 2 1 0 0
+/admin_assets/fonts/fa-solid-900.woff
+0 1 0 102516 0 0 0 0
+/admin/category/1
+0 1 0 5042 0 0 0 0
+/student/checked-papers
+0 18 0 287250 0 0 0 0
+/student/sent-back-papers
+0 6 0 74870 0 0 0 0
+/schools/91/class/134/edit
+0 1 0 18097 0 0 0 0
+/assigned-paper/show/QP8-EN-GR-POS-AD-AOQ-3
+0 2 0 48935 0 0 0 0
+/template
+0 5 0 41908 0 0 0 0
+/student/paper/checked/2
+0 1 0 11846 0 0 0 0
+/reports/schools/91/students
+0 1 0 33116 0 0 0 0
+/login
+0 79 0 605405 2 2 0 0
+/admin/school_group
+0 2 0 21731 0 0 0 0
+/paper-assign
+0 6 0 7185 0 0 0 0
+/question/8/edit
+0 1 0 21174 0 0 0 0
+/schools/5065/student
+0 1 0 17982 0 0 0 0
+/student/paper/show/286
+0 81 0 846315 0 0 0 0
+/admin_assets/fonts/fa-solid-900.woff2
+0 42 0 2941120 0 0 0 0
+/student/paper/show/2
+0 1 0 10184 0 0 0 0
+/assigned-paper/show/QP8-EN-GR-POS-AD-AOQ-1
+0 1 0 11691 0 0 0 0
+/schools/91/teachers
+0 15 0 245387 1 0 0 0
+/question
+0 5 0 195649 0 0 0 0
+/admin_assets/fonts/Pe-icon-7-stroke.woff
+0 41 0 2119342 0 0 0 0
+/student/sent-papers
+0 43 0 258896 0 0 0 0
+/_debugbar/assets/javascript
+0 21 0 7711694 0 0 0 0
+/teacher/assigned-papers/4
+0 1 0 1206 0 0 0 0
+/schools/91/teacher-class
+0 36 0 602625 1 1 0 0
+/schools/91/teachers/create
+0 2 0 33746 0 1 0 0
+/teacher/students/2/papers
+0 4 0 52782 0 0 0 0
+/Badge.jpg
+1 5 0 30012 0 0 0 0
+/teacher/recieved-papers
+0 210 0 2053121 5 5 0 0
+/teacher/student-reports
+0 28 0 534411 0 0 0 0
+/schools/91/teacher-modify
+0 10 0 152003 0 0 0 0
+/admin/category/14
+0 1 0 5184 0 0 0 0
+/teacher/paper/show/3
+0 21 0 378858 0 0 0 0
+/teacher/assigned-papers
+0 80 0 698448 3 1 0 0
+/_debugbar/open
+0 263 0 86222780 4 4 0 0
+/livewire/message/paper.browse-paper
+0 235 0 13562813 0 0 0 0
+/teacher/paper/show/2
+0 108 0 1767220 2 1 0 0
+/schools/5068/teachers
+0 3 0 38725 0 0 0 0
+/livewire/livewire.js
+0 39 0 1614992 0 0 0 0
+/school-class/132/section/8/edit
+0 2 0 11273 0 0 0 0
+/teacher/class-reports
+0 168 0 3264193 3 3 0 0
+/schools/91/teachers/5076/edit
+0 1 0 17243 0 0 0 0
+/teacher/student-papers
+0 134 0 1700171 1 1 0 0
+/question-paper/QP8-EN-GR-POS-AD-AOQ-3
+0 16 0 408430 1 1 0 0
+/student/paper/show/40
+0 1 0 10927 0 0 0 0
+/admin/schools
+0 11 0 152149 0 0 0 0
+/livewire/message/reports.paper
+0 18 0 16291308 0 0 0 0
+/_debugbar/assets/stylesheets
+0 19 0 2425110 0 0 0 0
+/get-question/7
+0 1 0 1976 0 0 0 0
+/student/paper/submit/286
+0 10 0 83912 0 0 0 0
+/student/paper/submit/327
+0 6 0 35123 0 0 0 0
+/teacher/paper-reports
+0 39 0 757343 4 3 0 0
+/template/39
+0 1 0 17471 0 0 0 0
+/question-paper/create
+0 2 0 35707 0 0 0 0
+/teacher/students
+0 28 0 408623 0 0 0 0
+/student/paper/resubmit/7
+0 2 0 12018 0 0 0 0
+/reports/schools/91/teachers
+0 7 0 129065 0 0 0 0
+/teacher/assigned-papers/2
+0 23 0 61288 0 1 0 0
+/teacher/student-paper/2
+0 4 0 23141 0 0 0 0
+/teacher/assigned-papers/3
+0 1 0 1155 0 0 0 0
+/teacher/student-answer/327
+0 8 0 212642 0 0 0 0
+/student/paper/update/7
+0 3 0 16357 0 0 0 0
+/schools/91/student/5071/edit
+0 1 0 18417 0 0 0 0
+/admin
+0 25 0 357981 0 0 0 0
+/admin_assets/css/style.css
+0 111 0 150003 0 0 0 0
+/robots.txt
+0 11 0 3181 0 0 0 0
+/student/paper/checked/286
+0 115 0 3270117 0 1 0 0
+/question/10/edit
+0 8 0 168899 1 1 0 0
+/schools/5065/teachers
+0 2 0 21753 0 0 0 0
+/admin_assets/images/dropdown-header/city3.jpg
+1 10 0 249165 0 0 0 0
+/teacher/student-paper/286
+0 1 0 5440 0 0 0 0
+/teacher/students/3/papers
+0 1 0 6417 0 0 0 0
+/admin/category/6
+0 1 0 4999 0 0 0 0
+/teacher/student-papers/type/section_id
+0 3 0 16504 0 0 0 0
+/student/paper/sent-back/286
+0 100 0 1121742 1 2 0 0
+/question-paper
+0 17 0 230829 0 0 0 0
+/reports/schools/91/classes
+0 3 0 55177 0 0 0 0
+/question-paper/QP6-EN-GR-POS-AD-AON-1/edit
+0 1 0 5964 0 0 0 0
+/template/28
+0 1 0 17451 0 0 0 0
+/school
+0 2 0 31754 0 0 0 0
+# End Of Table - urls
+# -sites- (monthly)
+157.37.155.225
+0 23 13 3543637 1 1635946382 0 0
+/teacher/papers
+180.151.238.17
+0 16 8 2114183 1 1635769012 0 0
+/login
+47.31.173.40
+0 3 1 25458 0 0 0 0
+-
+157.37.152.39
+0 512 309 31796040 3 1636111851 0 0
+/teacher/browse-papers
+157.37.150.33
+0 2 0 13731 0 0 0 0
+-
+157.37.146.84
+0 630 363 59189271 2 1636208518 0 0
+/teacher/paper/show/2
+180.151.23.171
+0 853 474 62276670 3 1636380024 0 0
+/teacher/student-papers
+47.31.174.253
+0 4 2 26501 0 0 0 0
+-
+47.31.170.255
+0 3 1 14774 0 0 0 0
+-
+47.31.188.22
+0 7 2 776175 0 0 0 0
+-
+42.111.161.159
+0 24 18 3789320 1 1637460956 0 0
+/login
+180.151.13.104
+0 6297 3520 565143750 48 1637417982 0 0
+/admin
+47.31.186.163
+0 1 0 6866 0 0 0 0
+-
+47.31.187.1
+0 1 0 6866 0 0 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+42.111.161.159
+0 24 18 3789320 1 1637460956 0 0
+/login
+# End Of Table - sites (daily)
+# -referrers- 
+http://qwcportal.ebslon.com/teacher/paper/show/3
+0 38
+http://qwcportal.ebslon.com/admin_assets/css/main.87c0748b313a1dda75f5.css
+0 89
+http://qwcportal.ebslon.com/schools/91/teacher-modify
+0 23
+http://qwcportal.ebslon.com/schools/5065/student
+0 6
+http://qwcportal.ebslon.com/student/paper/show/40
+0 1
+http://qwcportal.ebslon.com/student/saved-papers
+0 233
+http://qwcportal.ebslon.com/teacher/answer-comment
+0 1
+http://qwcportal.ebslon.com/admin/category/33/edit
+0 5
+http://qwcportal.ebslon.com/student/paper/show/327
+0 22
+http://qwcportal.ebslon.com/admin/schools
+0 43
+http://qwcportal.ebslon.com/admin/category/35/edit
+0 7
+http://qwcportal.ebslon.com/question-paper
+0 36
+http://qwcportal.ebslon.com/schools/5068/teachers
+0 3
+http://qwcportal.ebslon.com/reports/schools/91/classes
+0 7
+http://qwcportal.ebslon.com/student/paper/edit/286
+0 136
+http://qwcportal.ebslon.com/question
+0 21
+http://qwcportal.ebslon.com/schools/5065/teachers
+0 1
+http://qwcportal.ebslon.com/register
+0 1
+http://qwcportal.ebslon.com/schools/5068/class
+0 2
+http://qwcportal.ebslon.com/schools/91/teacher-class
+0 32
+http://qwcportal.ebslon.com/teacher/student-answer/327
+0 12
+http://qwcportal.ebslon.com/admin/category/6
+0 5
+http://qwcportal.ebslon.com/assigned-paper/show/QP8-EN-GR-POS-AD-AOQ-1
+0 2
+http://qwcportal.ebslon.com/question-paper/create
+0 4
+http://qwcportal.ebslon.com/student/assign-papers
+0 219
+http://qwcportal.ebslon.com/template/19
+0 1
+http://qwcportal.ebslon.com/question-paper/QP8-EN-GR-POS-AD-AOQ-3
+0 98
+http://qwcportal.ebslon.com/schools/91/student
+0 21
+http://qwcportal.ebslon.com/schools/91/class/134/edit
+0 1
+http://qwcportal.ebslon.com/schools/91/student/5071/edit
+0 1
+http://qwcportal.ebslon.com/schools/91/class
+0 26
+http://qwcportal.ebslon.com/paper
+0 2
+http://qwcportal.ebslon.com/teacher
+0 531
+http://qwcportal.ebslon.com/school
+0 3
+http://qwcportal.ebslon.com/student/paper/checked/2
+0 4
+- (Direct Request)
+0 1609
+http://qwcportal.ebslon.com/student/paper/edit/327
+0 42
+http://qwcportal.ebslon.com/student/paper/checked/327
+0 6
+http://qwcportal.ebslon.com/admin/category/1
+0 2
+http://qwcportal.ebslon.com/admin/category/34
+0 1
+http://qwcportal.ebslon.com/student/paper/show/2
+0 5
+http://qwcportal.ebslon.com/teacher/students/3/papers
+0 1
+http://qwcportal.ebslon.com/teacher/archived-papers
+0 60
+http://qwcportal.ebslon.com/admin
+0 148
+http://qwcportal.ebslon.com/schools/91/teachers
+0 37
+http://qwcportal.ebslon.com/teacher/paper/show/4
+0 6
+http://qwcportal.ebslon.com/question-paper/QP6-EN-GR-POS-AD-AON-1/edit
+0 1
+http://qwcportal.ebslon.com/teacher/student-answer/2
+0 95
+http://qwcportal.ebslon.com/schools/91/teachers/5076/edit
+0 2
+http://qwcportal.ebslon.com/student
+0 110
+http://qwcportal.ebslon.com/admin/school_group
+0 14
+http://qwcportal.ebslon.com/teacher/paper-reports
+0 89
+http://qwcportal.ebslon.com/teacher/paper/show/5
+0 51
+http://qwcportal.ebslon.com/school/class-reports
+0 14
+http://qwcportal.ebslon.com/student/sent-papers
+0 77
+http://qwcportal.ebslon.com/school-class/132/section/8/edit
+0 3
+http://qwcportal.ebslon.com/schools/91/teachers/create
+0 6
+http://qwcportal.ebslon.com/question-paper/QP8-EN-GR-POS-AD-AOQ-2
+0 6
+http://qwcportal.ebslon.com/admin/category
+0 4
+http://qwcportal.ebslon.com/assigned-paper/show/QP8-EN-GR-POS-AD-AOQ-3
+0 4
+http://qwcportal.ebslon.com/template/6/edit
+0 5
+http://qwcportal.ebslon.com/question/61/edit
+0 4
+http://qwcportal.ebslon.com/admin/category/14
+0 2
+http://qwcportal.ebslon.com/assigned-paper
+0 16
+http://qwcportal.ebslon.com/template/39
+0 1
+http://qwcportal.ebslon.com/teacher/recieved-papers
+0 305
+http://qwcportal.ebslon.com/teacher/paper/show/2
+0 274
+http://qwcportal.ebslon.com/teacher/classes
+0 47
+http://qwcportal.ebslon.com/question/8/edit
+0 1
+http://qwcportal.ebslon.com/student/paper/checked/286
+0 127
+http://qwcportal.ebslon.com/teacher/class-reports
+0 575
+http://qwcportal.ebslon.com/teacher/browse-papers
+0 816
+http://qwcportal.ebslon.com/question/10
+0 2
+http://qwcportal.ebslon.com/student/paper/edit/2
+0 3
+http://qwcportal.ebslon.com/reports/schools/91/students
+0 1
+http://qwcportal.ebslon.com/schools/91/class/126/edit
+0 17
+http://qwcportal.ebslon.com/student/paper/sent-back/286
+0 126
+http://qwcportal.ebslon.com/teacher/student-papers
+0 394
+http://qwcportal.ebslon.com/admin/category/34/edit
+0 4
+http://qwcportal.ebslon.com/school-class/126/section
+0 2
+http://qwcportal.ebslon.com/teacher/sent-papers
+0 2
+http://qwcportal.ebslon.com/login
+0 266
+http://qwcportal.ebslon.com/schools/91/student/5074/edit
+0 1
+http://qwcportal.ebslon.com/student/paper/show/286
+0 127
+http://qwcportal.ebslon.com/teacher/student-answer/286
+0 366
+http://qwcportal.ebslon.com/template/28
+0 2
+http://qwcportal.ebslon.com/question/10/edit
+0 14
+http://qwcportal.ebslon.com/reports/schools/91/teachers
+0 15
+http://qwcportal.ebslon.com/teacher/students
+0 93
+http://qwcportal.ebslon.com/teacher/student-reports
+0 181
+http://qwcportal.ebslon.com/teacher/student-paper/2
+0 2
+http://qwcportal.ebslon.com/teacher/assigned-papers
+0 225
+http://qwcportal.ebslon.com/student/sent-back-papers
+0 14
+http://qwcportal.ebslon.com/teacher/papers
+0 25
+http://qwcportal.ebslon.com/student/papers
+0 1
+http://qwcportal.ebslon.com/teacher/sent-back-papers
+0 107
+http://qwcportal.ebslon.com/schools/91/class/133/edit
+0 3
+http://qwcportal.ebslon.com/school/student-reports
+0 8
+http://qwcportal.ebslon.com/template
+0 9
+http://qwcportal.ebslon.com/teacher/students/2/papers
+0 7
+http://qwcportal.ebslon.com/student/checked-papers
+0 143
+http://qwcportal.ebslon.com/assigned-paper/sent
+0 13
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36
+0 8287
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+0 24
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36
+0 19
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15
+0 46
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
